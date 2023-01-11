@@ -5,25 +5,8 @@
 //
 // Author:   Osose Inegbenoise
 // Email:    inegbenoise@wisc.edu
-// Lecturer: Jeff Nyhoff
-//
-//////////////////// PAIR PROGRAMMERS COMPLETE THIS SECTION ///////////////////
-//
-// Partner Name:    None
-// Partner Email:   None
-// Partner Lecturer's Name: None
-// 
-// VERIFY THE FOLLOWING BY PLACING AN X NEXT TO EACH TRUE STATEMENT:
-//   ___ Write-up states that pair programming is allowed for this assignment.
-//   ___ We have both read and understand the course Pair Programming Policy.
-//   ___ We have registered our team prior to the team registration deadline.
-//
-///////////////////////// ALWAYS CREDIT OUTSIDE HELP //////////////////////////
-//
-// Persons:        Online office hours; helped  with the understanding of the mouse over concept
-// Online Sources:  (identify each by URL and describe how it helped)
-//
-///////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////
+
 import java.util.Random;
 import java.io.File;
 import processing.core.PImage;
